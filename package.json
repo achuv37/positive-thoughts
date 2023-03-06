@@ -1,0 +1,23 @@
+{
+  "name": "positive-thoughts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achuv37/positive-thoughts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achuv37/positive-thoughts/issues"
+  },
+  "homepage": "https://github.com/achuv37/positive-thoughts#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
